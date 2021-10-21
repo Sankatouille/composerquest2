@@ -1,0 +1,18 @@
+{
+    "name": "sanka/quete3",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Sanka\\Quete3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sankatouille",
+            "email": "affile.benjamin@gmail.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
